@@ -10,6 +10,7 @@
   "post-processors": [
     {
       "type": "vagrant",
+      "output": "omnios-r151010j.box",
       "compression_level": 9
     }
   ],
